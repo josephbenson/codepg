@@ -7,3 +7,11 @@
 p.nav-header>a {
 	color: #00425f;
 }
+
+.container-fluid {
+	padding: 0;
+}
+
+.navbar-default {
+	border-radius: 0;
+}
